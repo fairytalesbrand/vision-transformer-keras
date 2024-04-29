@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Recurrent Neural Network Logo" width="250">
+  <img src="" alt="Vision Transformer Logo" width="250">
 </p>
 
 <h1 align="center"> Vision Transformer (ViT) Keras </h>
