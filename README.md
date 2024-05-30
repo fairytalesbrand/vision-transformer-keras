@@ -14,3 +14,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Neutral Networks Keras TTTDT42ELSTS.jpg" alt="TensorFlow Logo" width="825">
+</p>
